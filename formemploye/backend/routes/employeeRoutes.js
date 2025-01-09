@@ -1,6 +1,6 @@
 // backend/routes/employeeRoutes.js
 const express = require('express');
-const Employee = require('../models/Employee'); // Correct import from models folder
+const Employee = require('../models/Employee.js'); // Correct import from models folder
 const router = express.Router();
 
 // POST route to create a new employee
