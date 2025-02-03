@@ -1,0 +1,51 @@
+.main{
+    background-color: black;
+    padding: 50px;
+}
+
+
+
+.inp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inp input{
+    background-color: black;
+    color: rgb(223, 232, 240);
+    border-radius: 25px;
+    padding: 10px 40px;
+    text-align: center;
+    margin-top: 20px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.btn button{
+    width: 80px;
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid white;
+    border-radius: 10px;
+    border-bottom: 0px;
+
+
+}
+.log{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    
+}
+.log span{
+    margin-top: 15px;
+}
+.log a{
+    color: rgb(151, 162, 151);
+}

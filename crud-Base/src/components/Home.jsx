@@ -3,9 +3,7 @@
 
 function Home(){
     return(
-        <>
-        {/* <h1>helloo</h1> */}
-        </>
+       <h1>hellooooooooo</h1>
     )
 }
 
